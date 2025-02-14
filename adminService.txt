@@ -12,3 +12,5 @@ add in admin service
 wefrfer
 
 change 2 in harsh's database
+closing the database connection
+
