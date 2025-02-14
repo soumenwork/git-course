@@ -12,5 +12,6 @@ add in admin service
 wefrfer
 
 change 2 in harsh's database
-closing the oracle database connection
+
+closing the mysql database connection
 
